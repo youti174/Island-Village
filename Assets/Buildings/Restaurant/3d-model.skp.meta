@@ -1,0 +1,996 @@
+fileFormatVersion: 2
+guid: 495a3339e7e6dbd48abc9ac78c9f5291
+timeCreated: 1450149910
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f01000060010000610100006201000063010000
+  assetHash:
+    serializedVersion: 2
+    Hash: 173398fe2f254149af30be53aa4a33dd
+  longitude: -84.744018376935699
+  latitude: 10.430009176663731
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 7.51115561, y: 1.60808849, z: 8.11855602}
+      lookAt: {x: 79.7244644, y: 12.3584471, z: 65.3861008}
+      up: {x: -.0907771066, y: .993265867, z: -.0719892532}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: 2D Live Oak Tree
+    100002: 2D Tree Deciduous 2
+    100004: 2D Tree Deciduous 2 1
+    100006: //RootNode
+    100008: 9.99
+    100010: 9.99 1
+    100012: 9P C
+    100014: 9P C 1
+    100016: Awning
+    100018: Awning 1
+    100020: Bracket
+    100022: Bracket 1
+    100024: Bracket 10
+    100026: Bracket 11
+    100028: Bracket 12
+    100030: Bracket 13
+    100032: Bracket 14
+    100034: Bracket 15
+    100036: Bracket 16
+    100038: Bracket 17
+    100040: Bracket 18
+    100042: Bracket 19
+    100044: Bracket 2
+    100046: Bracket 20
+    100048: Bracket 21
+    100050: Bracket 22
+    100052: Bracket 23
+    100054: Bracket 24
+    100056: Bracket 3
+    100058: Bracket 4
+    100060: Bracket 5
+    100062: Bracket 6
+    100064: Bracket 7
+    100066: Bracket 8
+    100068: Bracket 9
+    100070: Bracket Awning
+    100072: Bracket Awning 1
+    100074: Bracket Awning 10
+    100076: Bracket Awning 11
+    100078: Bracket Awning 12
+    100080: Bracket Awning 13
+    100082: Bracket Awning 14
+    100084: Bracket Awning 15
+    100086: Bracket Awning 16
+    100088: Bracket Awning 17
+    100090: Bracket Awning 18
+    100092: Bracket Awning 19
+    100094: Bracket Awning 2
+    100096: Bracket Awning 20
+    100098: Bracket Awning 3
+    100100: Bracket Awning 4
+    100102: Bracket Awning 5
+    100104: Bracket Awning 6
+    100106: Bracket Awning 7
+    100108: Bracket Awning 8
+    100110: Bracket Awning 9
+    100112: Bush
+    100114: Bush 1
+    100116: Bush 10
+    100118: Bush 11
+    100120: Bush 12
+    100122: Bush 13
+    100124: Bush 14
+    100126: Bush 15
+    100128: Bush 16
+    100130: Bush 17
+    100132: Bush 18
+    100134: Bush 19
+    100136: Bush 2
+    100138: Bush 3
+    100140: Bush 4
+    100142: Bush 5
+    100144: Bush 6
+    100146: Bush 7
+    100148: Bush 8
+    100150: Bush 9
+    100152: CHICKEN
+    100154: CHICKEN 1
+    100156: Classic wall light
+    100158: Classic wall light 1
+    100160: Classic wall light 10
+    100162: Classic wall light 11
+    100164: Classic wall light 12
+    100166: Classic wall light 13
+    100168: Classic wall light 14
+    100170: Classic wall light 2
+    100172: Classic wall light 3
+    100174: Classic wall light 4
+    100176: Classic wall light 5
+    100178: Classic wall light 6
+    100180: Classic wall light 7
+    100182: Classic wall light 8
+    100184: Classic wall light 9
+    100186: Commercial Door
+    100188: Commercial Door 1
+    100190: Commercial Door 2
+    100192: Component#1
+    100194: Component#1 1
+    100196: Concrete trashcan
+    100198: Concrete trashcan 1
+    100200: Dumpster trashcan
+    100202: Group 100
+    100204: Group 141
+    100206: Group 143
+    100208: Group 145
+    100210: Group 147
+    100212: Group 150
+    100214: Group 152
+    100216: Group 154
+    100218: Group 156
+    100220: Group 159
+    100222: Group 161
+    100224: Group 163
+    100226: Group 165
+    100228: Group 168
+    100230: Group 170
+    100232: Group 172
+    100234: Group 174
+    100236: Group 177
+    100238: Group 179
+    100240: Group 181
+    100242: Group 183
+    100244: Group 186
+    100246: Group 188
+    100248: Group 190
+    100250: Group 192
+    100252: Group 195
+    100254: Group 197
+    100256: Group 199
+    100258: Group 201
+    100260: Group 290
+    100262: Group 294
+    100264: Group 297
+    100266: Group 299
+    100268: Group 301
+    100270: Group 303
+    100272: Group 306
+    100274: Group 308
+    100276: Group 310
+    100278: Group 312
+    100280: Group 315
+    100282: Group 317
+    100284: Group 319
+    100286: Group 321
+    100288: Group 324
+    100290: Group 326
+    100292: Group 328
+    100294: Group 330
+    100296: Group 333
+    100298: Group 335
+    100300: Group 337
+    100302: Group 339
+    100304: Group 342
+    100306: Group 344
+    100308: Group 346
+    100310: Group 348
+    100312: Group 40
+    100314: Group 42
+    100316: Group 44
+    100318: Group 46
+    100320: Group 49
+    100322: Group 51
+    100324: Group 53
+    100326: Group 55
+    100328: Group 58
+    100330: Group 60
+    100332: Group 62
+    100334: Group 64
+    100336: Group 67
+    100338: Group 69
+    100340: Group 71
+    100342: Group 73
+    100344: Group 76
+    100346: Group 78
+    100348: Group 80
+    100350: Group 82
+    100352: Group 85
+    100354: Group 87
+    100356: Group 89
+    100358: Group 91
+    100360: Group 94
+    100362: Group 96
+    100364: Group 98
+    100366: Image 2
+    100368: Image 351
+    100370: Shutters
+    100372: Shutters 1
+    100374: Shutters 2
+    100376: Shutters 3
+    100378: Shutters 4
+    400000: 2D Live Oak Tree
+    400002: 2D Tree Deciduous 2
+    400004: 2D Tree Deciduous 2 1
+    400006: //RootNode
+    400008: 9.99
+    400010: 9.99 1
+    400012: 9P C
+    400014: 9P C 1
+    400016: Awning
+    400018: Awning 1
+    400020: Bracket
+    400022: Bracket 1
+    400024: Bracket 10
+    400026: Bracket 11
+    400028: Bracket 12
+    400030: Bracket 13
+    400032: Bracket 14
+    400034: Bracket 15
+    400036: Bracket 16
+    400038: Bracket 17
+    400040: Bracket 18
+    400042: Bracket 19
+    400044: Bracket 2
+    400046: Bracket 20
+    400048: Bracket 21
+    400050: Bracket 22
+    400052: Bracket 23
+    400054: Bracket 24
+    400056: Bracket 3
+    400058: Bracket 4
+    400060: Bracket 5
+    400062: Bracket 6
+    400064: Bracket 7
+    400066: Bracket 8
+    400068: Bracket 9
+    400070: Bracket Awning
+    400072: Bracket Awning 1
+    400074: Bracket Awning 10
+    400076: Bracket Awning 11
+    400078: Bracket Awning 12
+    400080: Bracket Awning 13
+    400082: Bracket Awning 14
+    400084: Bracket Awning 15
+    400086: Bracket Awning 16
+    400088: Bracket Awning 17
+    400090: Bracket Awning 18
+    400092: Bracket Awning 19
+    400094: Bracket Awning 2
+    400096: Bracket Awning 20
+    400098: Bracket Awning 3
+    400100: Bracket Awning 4
+    400102: Bracket Awning 5
+    400104: Bracket Awning 6
+    400106: Bracket Awning 7
+    400108: Bracket Awning 8
+    400110: Bracket Awning 9
+    400112: Bush
+    400114: Bush 1
+    400116: Bush 10
+    400118: Bush 11
+    400120: Bush 12
+    400122: Bush 13
+    400124: Bush 14
+    400126: Bush 15
+    400128: Bush 16
+    400130: Bush 17
+    400132: Bush 18
+    400134: Bush 19
+    400136: Bush 2
+    400138: Bush 3
+    400140: Bush 4
+    400142: Bush 5
+    400144: Bush 6
+    400146: Bush 7
+    400148: Bush 8
+    400150: Bush 9
+    400152: CHICKEN
+    400154: CHICKEN 1
+    400156: Classic wall light
+    400158: Classic wall light 1
+    400160: Classic wall light 10
+    400162: Classic wall light 11
+    400164: Classic wall light 12
+    400166: Classic wall light 13
+    400168: Classic wall light 14
+    400170: Classic wall light 2
+    400172: Classic wall light 3
+    400174: Classic wall light 4
+    400176: Classic wall light 5
+    400178: Classic wall light 6
+    400180: Classic wall light 7
+    400182: Classic wall light 8
+    400184: Classic wall light 9
+    400186: Commercial Door
+    400188: Commercial Door 1
+    400190: Commercial Door 2
+    400192: Component#1
+    400194: Component#1 1
+    400196: Concrete trashcan
+    400198: Concrete trashcan 1
+    400200: Dumpster trashcan
+    400202: Group 100
+    400204: Group 141
+    400206: Group 143
+    400208: Group 145
+    400210: Group 147
+    400212: Group 150
+    400214: Group 152
+    400216: Group 154
+    400218: Group 156
+    400220: Group 159
+    400222: Group 161
+    400224: Group 163
+    400226: Group 165
+    400228: Group 168
+    400230: Group 170
+    400232: Group 172
+    400234: Group 174
+    400236: Group 177
+    400238: Group 179
+    400240: Group 181
+    400242: Group 183
+    400244: Group 186
+    400246: Group 188
+    400248: Group 190
+    400250: Group 192
+    400252: Group 195
+    400254: Group 197
+    400256: Group 199
+    400258: Group 201
+    400260: Group 290
+    400262: Group 294
+    400264: Group 297
+    400266: Group 299
+    400268: Group 301
+    400270: Group 303
+    400272: Group 306
+    400274: Group 308
+    400276: Group 310
+    400278: Group 312
+    400280: Group 315
+    400282: Group 317
+    400284: Group 319
+    400286: Group 321
+    400288: Group 324
+    400290: Group 326
+    400292: Group 328
+    400294: Group 330
+    400296: Group 333
+    400298: Group 335
+    400300: Group 337
+    400302: Group 339
+    400304: Group 342
+    400306: Group 344
+    400308: Group 346
+    400310: Group 348
+    400312: Group 40
+    400314: Group 42
+    400316: Group 44
+    400318: Group 46
+    400320: Group 49
+    400322: Group 51
+    400324: Group 53
+    400326: Group 55
+    400328: Group 58
+    400330: Group 60
+    400332: Group 62
+    400334: Group 64
+    400336: Group 67
+    400338: Group 69
+    400340: Group 71
+    400342: Group 73
+    400344: Group 76
+    400346: Group 78
+    400348: Group 80
+    400350: Group 82
+    400352: Group 85
+    400354: Group 87
+    400356: Group 89
+    400358: Group 91
+    400360: Group 94
+    400362: Group 96
+    400364: Group 98
+    400366: Image 2
+    400368: Image 351
+    400370: Shutters
+    400372: Shutters 1
+    400374: Shutters 2
+    400376: Shutters 3
+    400378: Shutters 4
+    2300000: 2D Tree Deciduous 2
+    2300002: 2D Tree Deciduous 2 1
+    2300004: //RootNode
+    2300006: 9.99
+    2300008: 9.99 1
+    2300010: 9P C
+    2300012: 9P C 1
+    2300014: Awning
+    2300016: Awning 1
+    2300018: Bracket
+    2300020: Bracket 1
+    2300022: Bracket 10
+    2300024: Bracket 11
+    2300026: Bracket 12
+    2300028: Bracket 13
+    2300030: Bracket 14
+    2300032: Bracket 15
+    2300034: Bracket 16
+    2300036: Bracket 17
+    2300038: Bracket 18
+    2300040: Bracket 19
+    2300042: Bracket 2
+    2300044: Bracket 20
+    2300046: Bracket 21
+    2300048: Bracket 22
+    2300050: Bracket 23
+    2300052: Bracket 24
+    2300054: Bracket 3
+    2300056: Bracket 4
+    2300058: Bracket 5
+    2300060: Bracket 6
+    2300062: Bracket 7
+    2300064: Bracket 8
+    2300066: Bracket 9
+    2300068: Bracket Awning
+    2300070: Bracket Awning 1
+    2300072: Bracket Awning 10
+    2300074: Bracket Awning 11
+    2300076: Bracket Awning 12
+    2300078: Bracket Awning 13
+    2300080: Bracket Awning 14
+    2300082: Bracket Awning 15
+    2300084: Bracket Awning 16
+    2300086: Bracket Awning 17
+    2300088: Bracket Awning 18
+    2300090: Bracket Awning 19
+    2300092: Bracket Awning 2
+    2300094: Bracket Awning 20
+    2300096: Bracket Awning 3
+    2300098: Bracket Awning 4
+    2300100: Bracket Awning 5
+    2300102: Bracket Awning 6
+    2300104: Bracket Awning 7
+    2300106: Bracket Awning 8
+    2300108: Bracket Awning 9
+    2300110: CHICKEN
+    2300112: CHICKEN 1
+    2300114: Classic wall light
+    2300116: Classic wall light 1
+    2300118: Classic wall light 10
+    2300120: Classic wall light 11
+    2300122: Classic wall light 12
+    2300124: Classic wall light 13
+    2300126: Classic wall light 14
+    2300128: Classic wall light 2
+    2300130: Classic wall light 3
+    2300132: Classic wall light 4
+    2300134: Classic wall light 5
+    2300136: Classic wall light 6
+    2300138: Classic wall light 7
+    2300140: Classic wall light 8
+    2300142: Classic wall light 9
+    2300144: Commercial Door
+    2300146: Commercial Door 1
+    2300148: Commercial Door 2
+    2300150: Component#1
+    2300152: Component#1 1
+    2300154: Concrete trashcan
+    2300156: Concrete trashcan 1
+    2300158: Group 100
+    2300160: Group 141
+    2300162: Group 143
+    2300164: Group 145
+    2300166: Group 147
+    2300168: Group 150
+    2300170: Group 152
+    2300172: Group 154
+    2300174: Group 156
+    2300176: Group 159
+    2300178: Group 161
+    2300180: Group 163
+    2300182: Group 165
+    2300184: Group 168
+    2300186: Group 170
+    2300188: Group 172
+    2300190: Group 174
+    2300192: Group 177
+    2300194: Group 179
+    2300196: Group 181
+    2300198: Group 183
+    2300200: Group 186
+    2300202: Group 188
+    2300204: Group 190
+    2300206: Group 192
+    2300208: Group 195
+    2300210: Group 197
+    2300212: Group 199
+    2300214: Group 201
+    2300216: Group 290
+    2300218: Group 294
+    2300220: Group 297
+    2300222: Group 299
+    2300224: Group 301
+    2300226: Group 303
+    2300228: Group 306
+    2300230: Group 308
+    2300232: Group 310
+    2300234: Group 312
+    2300236: Group 315
+    2300238: Group 317
+    2300240: Group 319
+    2300242: Group 321
+    2300244: Group 324
+    2300246: Group 326
+    2300248: Group 328
+    2300250: Group 330
+    2300252: Group 333
+    2300254: Group 335
+    2300256: Group 337
+    2300258: Group 339
+    2300260: Group 342
+    2300262: Group 344
+    2300264: Group 346
+    2300266: Group 348
+    2300268: Group 40
+    2300270: Group 42
+    2300272: Group 44
+    2300274: Group 46
+    2300276: Group 49
+    2300278: Group 51
+    2300280: Group 53
+    2300282: Group 55
+    2300284: Group 58
+    2300286: Group 60
+    2300288: Group 62
+    2300290: Group 64
+    2300292: Group 67
+    2300294: Group 69
+    2300296: Group 71
+    2300298: Group 73
+    2300300: Group 76
+    2300302: Group 78
+    2300304: Group 80
+    2300306: Group 82
+    2300308: Group 85
+    2300310: Group 87
+    2300312: Group 89
+    2300314: Group 91
+    2300316: Group 94
+    2300318: Group 96
+    2300320: Group 98
+    2300322: Image 2
+    2300324: Image 351
+    2300326: Shutters
+    2300328: Shutters 1
+    2300330: Shutters 2
+    2300332: Shutters 3
+    2300334: Shutters 4
+    3300000: 2D Tree Deciduous 2
+    3300002: 2D Tree Deciduous 2 1
+    3300004: //RootNode
+    3300006: 9.99
+    3300008: 9.99 1
+    3300010: 9P C
+    3300012: 9P C 1
+    3300014: Awning
+    3300016: Awning 1
+    3300018: Bracket
+    3300020: Bracket 1
+    3300022: Bracket 10
+    3300024: Bracket 11
+    3300026: Bracket 12
+    3300028: Bracket 13
+    3300030: Bracket 14
+    3300032: Bracket 15
+    3300034: Bracket 16
+    3300036: Bracket 17
+    3300038: Bracket 18
+    3300040: Bracket 19
+    3300042: Bracket 2
+    3300044: Bracket 20
+    3300046: Bracket 21
+    3300048: Bracket 22
+    3300050: Bracket 23
+    3300052: Bracket 24
+    3300054: Bracket 3
+    3300056: Bracket 4
+    3300058: Bracket 5
+    3300060: Bracket 6
+    3300062: Bracket 7
+    3300064: Bracket 8
+    3300066: Bracket 9
+    3300068: Bracket Awning
+    3300070: Bracket Awning 1
+    3300072: Bracket Awning 10
+    3300074: Bracket Awning 11
+    3300076: Bracket Awning 12
+    3300078: Bracket Awning 13
+    3300080: Bracket Awning 14
+    3300082: Bracket Awning 15
+    3300084: Bracket Awning 16
+    3300086: Bracket Awning 17
+    3300088: Bracket Awning 18
+    3300090: Bracket Awning 19
+    3300092: Bracket Awning 2
+    3300094: Bracket Awning 20
+    3300096: Bracket Awning 3
+    3300098: Bracket Awning 4
+    3300100: Bracket Awning 5
+    3300102: Bracket Awning 6
+    3300104: Bracket Awning 7
+    3300106: Bracket Awning 8
+    3300108: Bracket Awning 9
+    3300110: CHICKEN
+    3300112: CHICKEN 1
+    3300114: Classic wall light
+    3300116: Classic wall light 1
+    3300118: Classic wall light 10
+    3300120: Classic wall light 11
+    3300122: Classic wall light 12
+    3300124: Classic wall light 13
+    3300126: Classic wall light 14
+    3300128: Classic wall light 2
+    3300130: Classic wall light 3
+    3300132: Classic wall light 4
+    3300134: Classic wall light 5
+    3300136: Classic wall light 6
+    3300138: Classic wall light 7
+    3300140: Classic wall light 8
+    3300142: Classic wall light 9
+    3300144: Commercial Door
+    3300146: Commercial Door 1
+    3300148: Commercial Door 2
+    3300150: Component#1
+    3300152: Component#1 1
+    3300154: Concrete trashcan
+    3300156: Concrete trashcan 1
+    3300158: Group 100
+    3300160: Group 141
+    3300162: Group 143
+    3300164: Group 145
+    3300166: Group 147
+    3300168: Group 150
+    3300170: Group 152
+    3300172: Group 154
+    3300174: Group 156
+    3300176: Group 159
+    3300178: Group 161
+    3300180: Group 163
+    3300182: Group 165
+    3300184: Group 168
+    3300186: Group 170
+    3300188: Group 172
+    3300190: Group 174
+    3300192: Group 177
+    3300194: Group 179
+    3300196: Group 181
+    3300198: Group 183
+    3300200: Group 186
+    3300202: Group 188
+    3300204: Group 190
+    3300206: Group 192
+    3300208: Group 195
+    3300210: Group 197
+    3300212: Group 199
+    3300214: Group 201
+    3300216: Group 290
+    3300218: Group 294
+    3300220: Group 297
+    3300222: Group 299
+    3300224: Group 301
+    3300226: Group 303
+    3300228: Group 306
+    3300230: Group 308
+    3300232: Group 310
+    3300234: Group 312
+    3300236: Group 315
+    3300238: Group 317
+    3300240: Group 319
+    3300242: Group 321
+    3300244: Group 324
+    3300246: Group 326
+    3300248: Group 328
+    3300250: Group 330
+    3300252: Group 333
+    3300254: Group 335
+    3300256: Group 337
+    3300258: Group 339
+    3300260: Group 342
+    3300262: Group 344
+    3300264: Group 346
+    3300266: Group 348
+    3300268: Group 40
+    3300270: Group 42
+    3300272: Group 44
+    3300274: Group 46
+    3300276: Group 49
+    3300278: Group 51
+    3300280: Group 53
+    3300282: Group 55
+    3300284: Group 58
+    3300286: Group 60
+    3300288: Group 62
+    3300290: Group 64
+    3300292: Group 67
+    3300294: Group 69
+    3300296: Group 71
+    3300298: Group 73
+    3300300: Group 76
+    3300302: Group 78
+    3300304: Group 80
+    3300306: Group 82
+    3300308: Group 85
+    3300310: Group 87
+    3300312: Group 89
+    3300314: Group 91
+    3300316: Group 94
+    3300318: Group 96
+    3300320: Group 98
+    3300322: Image 2
+    3300324: Image 351
+    3300326: Shutters
+    3300328: Shutters 1
+    3300330: Shutters 2
+    3300332: Shutters 3
+    3300334: Shutters 4
+    4300000: Mesh 3d-model
+    4300002: Mesh 3d-model
+    4300004: Mesh Awning
+    4300006: Mesh Bracket Awning
+    4300008: Mesh Commercial Door
+    4300010: Mesh Bracket
+    4300012: Mesh Classic wall light
+    4300014: Mesh Group 40
+    4300016: Mesh Bracket Awning
+    4300018: Mesh Commercial Door
+    4300020: Mesh Shutters
+    4300022: Mesh Bracket
+    4300024: Mesh Classic wall light
+    4300026: Mesh Concrete trashcan
+    4300028: Mesh 9P C
+    4300030: Mesh CHICKEN
+    4300032: Mesh 9.99
+    4300034: Mesh Component#1
+    4300036: Mesh Group 290
+    4300038: Mesh 2D Live Oak Tree
+    4300040: Mesh 2D Tree Deciduous 2
+    6400000: 2D Tree Deciduous 2
+    6400002: 2D Tree Deciduous 2 1
+    6400004: //RootNode
+    6400006: 9.99
+    6400008: 9.99 1
+    6400010: 9P C
+    6400012: 9P C 1
+    6400014: Awning
+    6400016: Awning 1
+    6400018: Bracket
+    6400020: Bracket 1
+    6400022: Bracket 10
+    6400024: Bracket 11
+    6400026: Bracket 12
+    6400028: Bracket 13
+    6400030: Bracket 14
+    6400032: Bracket 15
+    6400034: Bracket 16
+    6400036: Bracket 17
+    6400038: Bracket 18
+    6400040: Bracket 19
+    6400042: Bracket 2
+    6400044: Bracket 20
+    6400046: Bracket 21
+    6400048: Bracket 22
+    6400050: Bracket 23
+    6400052: Bracket 24
+    6400054: Bracket 3
+    6400056: Bracket 4
+    6400058: Bracket 5
+    6400060: Bracket 6
+    6400062: Bracket 7
+    6400064: Bracket 8
+    6400066: Bracket 9
+    6400068: Bracket Awning
+    6400070: Bracket Awning 1
+    6400072: Bracket Awning 10
+    6400074: Bracket Awning 11
+    6400076: Bracket Awning 12
+    6400078: Bracket Awning 13
+    6400080: Bracket Awning 14
+    6400082: Bracket Awning 15
+    6400084: Bracket Awning 16
+    6400086: Bracket Awning 17
+    6400088: Bracket Awning 18
+    6400090: Bracket Awning 19
+    6400092: Bracket Awning 2
+    6400094: Bracket Awning 20
+    6400096: Bracket Awning 3
+    6400098: Bracket Awning 4
+    6400100: Bracket Awning 5
+    6400102: Bracket Awning 6
+    6400104: Bracket Awning 7
+    6400106: Bracket Awning 8
+    6400108: Bracket Awning 9
+    6400110: CHICKEN
+    6400112: CHICKEN 1
+    6400114: Classic wall light
+    6400116: Classic wall light 1
+    6400118: Classic wall light 10
+    6400120: Classic wall light 11
+    6400122: Classic wall light 12
+    6400124: Classic wall light 13
+    6400126: Classic wall light 14
+    6400128: Classic wall light 2
+    6400130: Classic wall light 3
+    6400132: Classic wall light 4
+    6400134: Classic wall light 5
+    6400136: Classic wall light 6
+    6400138: Classic wall light 7
+    6400140: Classic wall light 8
+    6400142: Classic wall light 9
+    6400144: Commercial Door
+    6400146: Commercial Door 1
+    6400148: Commercial Door 2
+    6400150: Component#1
+    6400152: Component#1 1
+    6400154: Concrete trashcan
+    6400156: Concrete trashcan 1
+    6400158: Group 100
+    6400160: Group 141
+    6400162: Group 143
+    6400164: Group 145
+    6400166: Group 147
+    6400168: Group 150
+    6400170: Group 152
+    6400172: Group 154
+    6400174: Group 156
+    6400176: Group 159
+    6400178: Group 161
+    6400180: Group 163
+    6400182: Group 165
+    6400184: Group 168
+    6400186: Group 170
+    6400188: Group 172
+    6400190: Group 174
+    6400192: Group 177
+    6400194: Group 179
+    6400196: Group 181
+    6400198: Group 183
+    6400200: Group 186
+    6400202: Group 188
+    6400204: Group 190
+    6400206: Group 192
+    6400208: Group 195
+    6400210: Group 197
+    6400212: Group 199
+    6400214: Group 201
+    6400216: Group 290
+    6400218: Group 294
+    6400220: Group 297
+    6400222: Group 299
+    6400224: Group 301
+    6400226: Group 303
+    6400228: Group 306
+    6400230: Group 308
+    6400232: Group 310
+    6400234: Group 312
+    6400236: Group 315
+    6400238: Group 317
+    6400240: Group 319
+    6400242: Group 321
+    6400244: Group 324
+    6400246: Group 326
+    6400248: Group 328
+    6400250: Group 330
+    6400252: Group 333
+    6400254: Group 335
+    6400256: Group 337
+    6400258: Group 339
+    6400260: Group 342
+    6400262: Group 344
+    6400264: Group 346
+    6400266: Group 348
+    6400268: Group 40
+    6400270: Group 42
+    6400272: Group 44
+    6400274: Group 46
+    6400276: Group 49
+    6400278: Group 51
+    6400280: Group 53
+    6400282: Group 55
+    6400284: Group 58
+    6400286: Group 60
+    6400288: Group 62
+    6400290: Group 64
+    6400292: Group 67
+    6400294: Group 69
+    6400296: Group 71
+    6400298: Group 73
+    6400300: Group 76
+    6400302: Group 78
+    6400304: Group 80
+    6400306: Group 82
+    6400308: Group 85
+    6400310: Group 87
+    6400312: Group 89
+    6400314: Group 91
+    6400316: Group 94
+    6400318: Group 96
+    6400320: Group 98
+    6400322: Image 2
+    6400324: Image 351
+    6400326: Shutters
+    6400328: Shutters 1
+    6400330: Shutters 2
+    6400332: Shutters 3
+    6400334: Shutters 4
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0253999997
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 68682ce600a4eb84d85f42f70d6a3a5c
+timeCreated: 1449634564
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: KEHLANT
+    100004: KEHLBRIK
+    100006: KEHLCLAR
+    100008: KEHLDB
+    100010: KEHLFLOO
+    100012: KEHLFORN
+    100014: KEHLGLAS
+    100016: KEHLLOSA
+    100018: KEHLMETL
+    100020: KEHLROOF
+    100022: KEHLTERR
+    100024: KEHLWALL
+    400000: //RootNode
+    400002: KEHLANT
+    400004: KEHLBRIK
+    400006: KEHLCLAR
+    400008: KEHLDB
+    400010: KEHLFLOO
+    400012: KEHLFORN
+    400014: KEHLGLAS
+    400016: KEHLLOSA
+    400018: KEHLMETL
+    400020: KEHLROOF
+    400022: KEHLTERR
+    400024: KEHLWALL
+    2300000: KEHLANT
+    2300002: KEHLBRIK
+    2300004: KEHLCLAR
+    2300006: KEHLDB
+    2300008: KEHLFLOO
+    2300010: KEHLFORN
+    2300012: KEHLGLAS
+    2300014: KEHLLOSA
+    2300016: KEHLMETL
+    2300018: KEHLROOF
+    2300020: KEHLTERR
+    2300022: KEHLWALL
+    3300000: KEHLANT
+    3300002: KEHLBRIK
+    3300004: KEHLCLAR
+    3300006: KEHLDB
+    3300008: KEHLFLOO
+    3300010: KEHLFORN
+    3300012: KEHLGLAS
+    3300014: KEHLLOSA
+    3300016: KEHLMETL
+    3300018: KEHLROOF
+    3300020: KEHLTERR
+    3300022: KEHLWALL
+    4300000: KEHLANT
+    4300002: KEHLBRIK
+    4300004: KEHLCLAR
+    4300006: KEHLDB
+    4300008: KEHLFLOO
+    4300010: KEHLFORN
+    4300012: KEHLGLAS
+    4300014: KEHLLOSA
+    4300016: KEHLMETL
+    4300018: KEHLROOF
+    4300020: KEHLTERR
+    4300022: KEHLWALL
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
